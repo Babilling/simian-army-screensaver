@@ -1,0 +1,9 @@
+body {
+	background-color: #000;
+	overflow: hidden;
+}
+#logo {
+	position: absolute;
+	width: 140px;
+	height: 108px;
+}
